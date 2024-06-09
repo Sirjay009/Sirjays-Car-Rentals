@@ -22,12 +22,15 @@ header {
     background-color: orange;
 }
 
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
 /*Main content*/
 main {
     background-color: lightgreen;
     /*Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    margin-top: 47px;
 }
 
 /*Footer*/
