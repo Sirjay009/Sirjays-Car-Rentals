@@ -20,6 +20,18 @@ h1 {
     display: block;
 }
 
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 3rem;
+    position: relative;
+    top: 30px;
+    right: 2px;
+
+}
+
 .links {
     position: absolute;
     width: 100%;
