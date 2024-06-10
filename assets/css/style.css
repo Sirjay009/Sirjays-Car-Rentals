@@ -14,6 +14,8 @@ h1 {
     font-family: 'Oswald', sans-serif;
 }
 
+/*Navbar styles with dropdown toggle*/
+
 .links {
     position: absolute;
     width: 100%;
@@ -38,6 +40,9 @@ h1 {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 #logo {
