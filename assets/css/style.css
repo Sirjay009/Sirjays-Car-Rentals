@@ -16,6 +16,10 @@ h1 {
 
 /*Navbar styles with dropdown toggle*/
 
+#nav-toggle:checked~nav {
+    display: block;
+}
+
 .links {
     position: absolute;
     width: 100%;
@@ -23,6 +27,7 @@ h1 {
     padding: 0 1 rem;
     box-shadow: 0 2px 2px whitesmoke;
     display: none;
+    top: 100%;
 }
 
 .container {
