@@ -102,11 +102,6 @@ main {
     margin-top: 40px;
 }
 
-/*Footer*/
-footer {
-    background-color: orange;
-}
-
 .two {
     background-color: blueviolet;
 }
@@ -117,4 +112,52 @@ footer {
 
 .four {
     background-color: chartreuse;
+}
+
+/*Footer*/
+footer {
+    background-color: orange;
+}
+
+/*Media query: tablets and larger (768px and up)*/
+@media screen and (min-width: 768px) {
+    /*Header*/
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding: 1rem;
+    }
+
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    #menu {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    /*Main content*/
+
+    main {
+        /*Push main content down to accommodate larger header*/
+        margin-top: 79px;
+    }
+}
+
+/*Large devices (laptops and desktops 992px and up*/
+@media screen and (min-width: 992px) {
+
 }
