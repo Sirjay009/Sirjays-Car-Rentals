@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one {
+    background-color: aqua;
+}
+
+.two {
+    background-color: blueviolet;
+}
+
+.three {
+    background-color: brown;
+}
+
+.four {
+    background-color: chartreuse;
+}
