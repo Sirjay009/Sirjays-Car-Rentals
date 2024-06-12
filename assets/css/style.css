@@ -96,10 +96,23 @@ nav {
 
 /*Main content*/
 main {
-    background-color: lightblue;
+    background-color: white;
     /*Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 40px;
+}
+
+.text {
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: bolder;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
 }
 
 .two {
@@ -115,6 +128,7 @@ main {
 }
 
 /*Footer*/
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -155,10 +169,6 @@ main {
 
     #menu > li {
         padding-left: 1rem;
-    }
-
-    .nav-toggle-label {
-        display: none;
     }
 
     /*Main content*/
