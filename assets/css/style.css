@@ -10,28 +10,14 @@
 body {
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
-}
-
-.container {
-    scroll-snap-type: y mandatory;
-    overflow-y: scroll;
-    height: 100vh;
-}
-
-section {
-    height: 100vh;
-    scroll-snap-align: start;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
 }
 
 h1 {
     font-family: 'Oswald', sans-serif;
-}
-
-.one {
-    background-color: white;
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column;
 }
 
 /*Header*/
@@ -96,38 +82,39 @@ nav {
 
 /*Main content*/
 main {
-    background-color: white;
     /*Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    margin-top: 40px;
+    margin-top: 97px;
 }
 
-.text {
-    font-size: 20px;
-    padding-left: 20px;
-    font-weight: bolder;
-    width: 300px;
-    display: flex;
-    flex-direction: column;
-    align-content: space-around;
+/*Hero section*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/pexels-krislucas90-3264504-min.jpg") no-repeat center center / cover;
+    position: relative;
+}
+
+#cover-text {
+    background-color: white;
+    font-size: 130%;
+    position: absolute;
+    bottom: 200px;
+    width: 70%;
+    min-height: 20%;
     text-align: center;
-    margin-top: 20px;
-    margin-left: 10px;
+    padding: 10px;
 }
 
-.two {
-    background-color: blueviolet;
-}
-
-.three {
-    background-color: brown;
-}
-
-.four {
-    background-color: chartreuse;
-}
 
 /*Footer*/
+footer { 
+    position: absolute; 
+    bottom: 0;
+    left: 10px;
+    right: 10px; 
+    z-index: 10px;
+}
 
 #social-networks {
     text-align: center;
@@ -175,8 +162,26 @@ main {
 
     main {
         /*Push main content down to accommodate larger header*/
-        margin-top: 79px;
+        margin-top: 47px;
+        background-color: white;
     }
+
+    #cover-text {
+        background-color: white;
+        font-size: 250%;
+        position: absolute;
+        bottom: 200px;
+        width: 70%;
+        min-height: 20%;
+        text-align: center;
+        padding: 10px;
+        left: 160px;
+    }
+
+    #cover-text > p {
+        padding-top: 3rem;
+    }
+
 }
 
 /*Large devices (laptops and desktops 992px and up*/
@@ -184,7 +189,19 @@ main {
 
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
-    }  
-    
+    }
 
+    #cover-text {
+        background-color: white;
+        font-size: 200%;
+        position: absolute;
+        bottom: 100px;
+        width: 30%;
+        min-height: 35%;
+        margin-left: 900px;
+        text-align: center;
+        padding: 10px;
+    }
+
+    
 }
