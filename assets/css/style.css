@@ -88,23 +88,6 @@ main {
 }
 
 /*Hero section*/
-#hero {
-    height: 600px;
-    width: 100%;
-    background: url("../images/pexels-krislucas90-3264504-min.jpg") no-repeat center center / cover;
-    position: relative;
-}
-
-#cover-text {
-    background-color: white;
-    font-size: 130%;
-    position: absolute;
-    bottom: 200px;
-    width: 70%;
-    min-height: 20%;
-    text-align: center;
-    padding: 10px;
-}
 
 
 /*Footer*/
@@ -156,28 +139,6 @@ main {
     }
 
     /*Main content*/
-
-    main {
-        /*Push main content down to accommodate larger header*/
-        margin-top: 47px;
-        background-color: white;
-    }
-
-    #cover-text {
-        background-color: white;
-        font-size: 200%;
-        position: absolute;
-        bottom: 100px;
-        width: 50%;
-        min-height: 35%;
-        right: 250px;
-        text-align: center;
-        padding: 10px;
-    }
-
-    #cover-text > p {
-        padding-top: 3rem;
-    }
 
 }
 
