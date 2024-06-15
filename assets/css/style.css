@@ -16,7 +16,9 @@ body {
     background-color: white;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Oswald', sans-serif;
 }
 
@@ -55,7 +57,7 @@ header a {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -109,7 +111,9 @@ main {
     align-items: center;
 }
 
-#overlay > h2, #overlay > h3, #overlay > p {
+#overlay>h2,
+#overlay>h3,
+#overlay>p {
     color: white;
 }
 
@@ -137,17 +141,27 @@ main {
     border-radius: 10px;
     width: 70%
 }
-    
-#offers h3, #offers p {
+
+#offers h3,
+#offers p {
     color: #fafafa;
     font-size: larger;
 }
 
+/*About us section*/
+
+#aboutus-hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/jpeg-optimizer_pexels-jdgromov-10358209.jpg") no-repeat center center / cover;
+    position: relative;
+}
 
 #aboutus-text {
     text-align: center;
     line-height: 150%;
     color: black;
+    padding: 20px;
 }
 
 /*Footer*/
@@ -169,6 +183,7 @@ main {
 
 /*Media query: tablets and larger (768px and up)*/
 @media screen and (min-width: 768px) {
+
     /*Header*/
     nav {
         display: block;
@@ -184,7 +199,7 @@ main {
         justify-content: space-evenly;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -201,14 +216,20 @@ main {
     /*Hero content*/
     #overlay {
         width: 40%;
-        margin-left: 50%;
+        margin-left: 40%;
     }
 
     /*About us section*/
 
+    #aboutus {
+        margin-top: 50px;
+    }
+
     #aboutus-text {
-        padding: 80px;
-        margin-top: 8em;
+        padding-top: 10px;
+        padding-right: 80px;
+        padding-bottom: 80px;
+        padding-left: 80px;
     }
 
 }
@@ -219,5 +240,5 @@ main {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
-    
+
 }
