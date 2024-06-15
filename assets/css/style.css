@@ -166,11 +166,17 @@ main {
 }
 
 #portfolio {
-    padding-top: 60px;
-        padding-right: 15px;
-        padding-bottom: 5px;
-        padding-left: 15px;
-        text-align: center;
+    margin-top: 55px;
+}
+
+#portfolio > h2 {
+    text-align: center;
+}
+
+.portimages img {
+    width: 100%;
+    line-height: 1em;
+    border: 1px solid black;
 }
 
 /*Footer*/
@@ -189,6 +195,13 @@ main {
     color: #3a3a3a;
 }
 
+/*Media query: Large or landscape phones (576px and up)*/
+@media screen and (min-width: 576px) {
+    .portimages {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 
 /*Media query: tablets and larger (768px and up)*/
 @media screen and (min-width: 768px) {
@@ -239,6 +252,11 @@ main {
         padding-right: 80px;
         padding-bottom: 80px;
         padding-left: 80px;
+    }
+
+    /*Gallery*/
+    .portimages {
+        column-count: 3;
     }
 
 }
