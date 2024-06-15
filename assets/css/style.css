@@ -149,6 +149,13 @@ main {
     background: url("../images/jpeg-optimizer_pexels-jdgromov-10358209.jpg") no-repeat cover cover / center;
 }
 
+#aboutus-text {
+    text-align: center;
+    padding: 80px;
+    line-height: 150%;
+    color: black;
+}
+
 /*Footer*/
 
 #social-networks {
