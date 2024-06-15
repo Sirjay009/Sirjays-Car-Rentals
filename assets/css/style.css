@@ -151,10 +151,11 @@ main {
 /*About us section*/
 
 #aboutus-hero {
-    height: 600px;
+    height: 400px;
     width: 100%;
     background: url("../images/jpeg-optimizer_pexels-jdgromov-10358209.jpg") no-repeat center center / cover;
     position: relative;
+    top: 30px;
 }
 
 #aboutus-text {
@@ -222,11 +223,11 @@ main {
     /*About us section*/
 
     #aboutus {
-        margin-top: 50px;
+        margin-top: 20px;
     }
 
     #aboutus-text {
-        padding-top: 10px;
+        padding-top: 30px;
         padding-right: 80px;
         padding-bottom: 80px;
         padding-left: 80px;
