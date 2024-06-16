@@ -25,7 +25,7 @@
         </a>
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
-        
+
         <nav>
             <ul id="menu">
                 <li><a href="index.html" class="active">Home</a></li>
@@ -41,22 +41,22 @@
 
     <!--Main content-->
     <main>
+        <!--Reserve section-->
+        <section id="reserve">
+            <form id="reserve-form" method="POST" action="https://formdump.codeinstitute.net">
 
-        <h3 class="reserve">Sign Up</h3>
-        <fieldset>
-            <legend>Your details</legend>
-            <form action="">
+                <h2 class="reserve"><i class="fa-solid fa-pen-to-square"></i>&nbsp;Reserve a ride!</h2>
                 <label for="fname">First Name</label>
-                <input type="text" id="fname" name="first-name">
+                <input type="text" id="fname" name="first-name" class="text-input" required>
                 <br>
                 <label for="lname">Last Name</label>
-                <input type="text" id="lname" name="last-name">
+                <input type="text" id="lname" name="last-name" class="text-input" required>
                 <br>
                 <label for="email">Email Address</label>
-                <input type="email" id="email" name="email" required>
+                <input type="email" id="email" name="email" class="text-input" required>
                 <br>
                 <label for="cars">Category of car</label>
-                <select name="cars" id="cars" placeholder="Make a choice">
+                <select name="cars" id="cars" class="text-input" required>
                     <option value="sedan">Sedan</option>
                     <option value="coupe">Coupe</option>
                     <option value="Sports-car">Sports car</option>
@@ -68,9 +68,9 @@
                     <option value="pickup-truck">Pickup truck</option>
                     <option value="electric-car">Electric car</option>
                 </select>
-                <input type="submit">
+                <button type="submit" class="reserve-ride">Reserve!</button>
             </form>
-        </fieldset>
+        </section>
     </main>
 
     <!--Footer-->
