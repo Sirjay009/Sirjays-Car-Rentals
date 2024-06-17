@@ -42,7 +42,7 @@ header a {
 
 #logo {
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     color: #252525;
 }
 
@@ -65,7 +65,7 @@ header a {
 nav {
     position: absolute;
     background-color: white;
-    width: 100%;
+    width: 50%;
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
@@ -307,6 +307,7 @@ table {
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 25px;
+    
 }
 
 
@@ -329,6 +330,11 @@ table {
         position: relative;
         box-shadow: none;
         padding: 1rem;
+    }
+
+    nav a {
+        font-size: 15px;
+        font-weight: 600;
     }
 
     #menu {
@@ -398,6 +404,10 @@ table {
 @media screen and (min-width: 992px) {
 
     /*Header*/
+    nav a {
+        font-size: 20px;
+        font-weight: 600;
+    }
 
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
