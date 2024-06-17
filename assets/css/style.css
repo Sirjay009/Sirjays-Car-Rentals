@@ -252,6 +252,7 @@ main {
 
 /*Footer*/
 /*Contact us*/
+
 #contact-us {
     text-align: center;
     font-size: large;
@@ -272,14 +273,22 @@ table {
     text-align: center;
     padding: 20px 0;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     list-style-type: none;
 }
 
 #social-networks i {
     font-size: 160%;
-    padding: 5%;
+    padding: 15px;
     color: black;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+#social-networks i:hover {
+    color: white;
+    background-color: black;
 }
 
 
