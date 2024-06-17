@@ -202,6 +202,8 @@ main {
 
 #portfolio > h2 {
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .portimages img {
@@ -216,6 +218,10 @@ main {
     margin-top: 70px;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
+}
+
+#reserve > h2 {
+    text-align: center;
 }
 
 #reserve-form {
@@ -255,15 +261,15 @@ main {
 }
 
 /*Footer*/
-/*Contact us*/
+/*Contact us/Reserve*/
 
-#contact-us {
+#address {
     text-align: center;
     font-size: large;
     padding: 20px;
 }
 
-#contact-us > h4 {
+#address > h4 {
     font-weight: 700;
 }
 
@@ -318,12 +324,10 @@ table {
 @media screen and (min-width: 768px) {
 
     /*Header*/
-
     nav {
         display: block;
         position: relative;
         box-shadow: none;
-        width: fit-content;
         padding: 1rem;
     }
 
