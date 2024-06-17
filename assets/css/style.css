@@ -8,7 +8,7 @@
 
 /*General styles*/
 body {
-    color: #3a3a3a;
+    color: black;
     font-family: 'Lato', sans-serif;
     min-height: 100vh;
     display: flex;
@@ -243,7 +243,6 @@ main {
     font-size: 100%;
     background-color: darkblue;
     color: #fafafa;
-    font-weight: 600;
 }
 
 .reserve-ride:hover {
@@ -252,6 +251,22 @@ main {
 }
 
 /*Footer*/
+/*Contact us*/
+#contact-us {
+    text-align: center;
+    font-size: large;
+    padding: 20px;
+}
+
+#contact-us > h4 {
+    font-weight: 700;
+}
+
+table {
+    margin: auto;
+    border-spacing: 10px 5px;
+}
+
 
 #social-networks {
     text-align: center;
