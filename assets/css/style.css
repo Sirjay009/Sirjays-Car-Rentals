@@ -73,6 +73,11 @@ nav {
     top: 100%;
 }
 
+nav a:hover {
+    color: white;
+    background-color: black;
+}
+
 #nav-toggle {
     display: none;
 }
@@ -250,12 +255,9 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: black;
 }
 
-#social-networks a:hover {
-    background-color: yellow;
-}
 
 /*Media query: Large or landscape phones (576px and up)*/
 @media screen and (min-width: 576px) {
