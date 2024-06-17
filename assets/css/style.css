@@ -118,6 +118,22 @@ main {
     color: white;
 }
 
+.button {
+    text-decoration: none;
+    font-weight: 400;
+    border: solid black 1px;
+    padding: 5px;
+    font-size: 1em;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+}
+
+.button:hover {
+    color: white;
+    background-color: black;
+}
+
 /*Offers section*/
 
 .our-offer {
@@ -236,6 +252,10 @@ main {
     color: #3a3a3a;
 }
 
+#social-networks a:hover {
+    background-color: yellow;
+}
+
 /*Media query: Large or landscape phones (576px and up)*/
 @media screen and (min-width: 576px) {
 
@@ -276,6 +296,10 @@ main {
         font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
+    }
+
+    main {
+        flex-direction: column;
     }
 
     /*Hero content*/
