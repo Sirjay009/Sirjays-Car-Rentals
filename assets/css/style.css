@@ -291,6 +291,14 @@ table {
     background-color: black;
 }
 
+/*Signature*/
+#signature {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
 
 /*Media query: Large or landscape phones (576px and up)*/
 @media screen and (min-width: 576px) {
