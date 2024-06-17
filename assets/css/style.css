@@ -178,7 +178,7 @@ main {
     width: 100%;
     background: url("../images/jpeg-optimizer_pexels-jdgromov-10358209.jpg") no-repeat center center / cover;
     position: relative;
-    top: 30px;
+    top: 20px;
 }
 
 #aboutus-text {
@@ -186,6 +186,8 @@ main {
     line-height: 150%;
     color: black;
     padding: 20px;
+    font-weight: 500;
+    font-size: large;
 }
 
 /*Portfolio section*/
