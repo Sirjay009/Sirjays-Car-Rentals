@@ -88,6 +88,7 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
     display: flex;
+    flex-direction: column;
 }
 
 /*Hero section*/
@@ -298,9 +299,6 @@ main {
         margin: 0 0.5rem;
     }
 
-    main {
-        flex-direction: column;
-    }
 
     /*Hero content*/
     #overlay {
