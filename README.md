@@ -31,6 +31,16 @@
 </ul>
 </li>
 
+<li>
+<p><strong>Home page</strong></p>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+</li>
 
 <li>
 <p><strong>The About Us Section</strong></p>
