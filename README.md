@@ -11,6 +11,7 @@
 <ul>
 <li>
 <p><strong>Navigation</strong></p>
+<img src="assets/images/jpeg-optimizer_Navigation.PNG" alt="Screen shot of the 'Navigation section' of Sirjays Car Rental project">
 <ul>
 <li></li>
 <li></li>
