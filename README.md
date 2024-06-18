@@ -1,6 +1,6 @@
-<h1>Sirjays Car Rental</h1>
+<h1>Sirjays Car Rentals</h1>
 
-<p>Sirjays Car Rental website is a webpage dedicated to serving the everyday car rental needs of the general public.
+<p>Sirjays Car Rentals website is a webpage dedicated to serving the everyday car rental needs of the general public.
 </p>
 <p>As a car rental company, Sirjays Car Rental, offers the best of car varieties at a very affordable rate and in a very proffessional and customer-friendly business environment run by a team of experienced, dedicated and assist-ready staff.</p>
 
