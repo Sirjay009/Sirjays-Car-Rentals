@@ -223,6 +223,7 @@ main {
 
 #reserve > h2 {
     text-align: center;
+    padding-bottom: 30px;
 }
 
 #reserve-form {
