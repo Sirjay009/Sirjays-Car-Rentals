@@ -129,10 +129,10 @@
 <h3>Credits</h3>
 <p>Credit</p>
 <ul>
-<li>The favicon link code was taken from w3school.com</li>
-<li>The navbar link code was taken from the CI love Running Project</li>
-<li>The code to make the reserve button in hero's overlay was taken from Alan Bushell's Belfast Auto Repairs project</li>
-<li>The code to create space between text and font icons and debug footer was taken from shecodes.io</li>
+<li>The favicon link code was taken from https://www.w3schools.com</li>
+<li>The navbar link code was taken from the CI love Running Project - https://sirjay009.github.io/love-running/</li>
+<li>The code to make the reserve button in hero's overlay was taken from Alan Bushell's Belfast Auto Repairs project - https://alan-bushell.github.io/belfast-auto-repairs/index.html</li>
+<li>The code to create space between text and font icons and debug footer was taken from https://wwwshecodes.io</li>
 <li>The code to make the social media links was taken from both the CI Love Running Project and Alan Bushell's Belfast Auto Repairs project</li>
 </ul>
 
