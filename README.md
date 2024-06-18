@@ -22,6 +22,7 @@
 
 <li>
 <p><strong>The Header</strong></p>
+<img src="assets/images/jpeg-optimizer_Header1.jpg" alt="Screen shot of the 'Header' of Sirjays Car Rental project">
 <ul>
 <li></li>
 <li></li>
@@ -33,6 +34,7 @@
 
 <li>
 <p><strong>Home page</strong></p>
+<img src="assets/images/jpeg-optimizer_Home.PNG" alt="Screen shot of the 'Home page' of Sirjays Car Rental project">
 <ul>
 <li></li>
 <li></li>
@@ -44,6 +46,7 @@
 
 <li>
 <p><strong>The About Us Section</strong></p>
+<img src="assets/images/jpeg-optimizer_AboutUs.PNG" alt="Screen shot of the 'About Us section' of Sirjays Car Rental project">
 <ul>
 <li></li>
 <li></li>
@@ -55,6 +58,7 @@
 
 <li>
 <p><strong>The Portfolio Section</strong></p>
+<img src="assets/images/jpeg-optimizer_Portfolio1.jpg" alt="Screen shot of the 'Portfolio section' of Sirjays Car Rental project">
 <ul>
 <li></li>
 <li></li>
@@ -67,6 +71,7 @@
 
 <li>
 <p><strong>The Contact Us Section</strong></p>
+<img src="assets/images/jpeg-optimizer_ContactUs.PNG" alt="Screen shot of the 'Contact Us section' of Sirjays Car Rental project">
 <ul>
 <li></li>
 <li></li>
