@@ -230,8 +230,7 @@ main {
     background-color: darkmagenta;
     color: #ffffff;
     padding: 30px;
-    margin-left: 0;
-    margin-right: 0;
+    width: 85vw;
 }
 
 #reserve-form > h2 {
