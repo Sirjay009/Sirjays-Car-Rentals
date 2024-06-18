@@ -273,9 +273,11 @@ main {
     font-weight: 700;
 }
 
-table {
+table, th, td {
     margin: auto;
-    border-spacing: 10px 5px;
+    padding: 5px 15px 5px 15px;
+    border: 1px solid black;
+    border-collapse: separate;
 }
 
 
