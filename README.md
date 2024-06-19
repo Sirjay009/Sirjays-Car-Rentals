@@ -110,6 +110,7 @@
 <li><p>Accessibility</p>
 <ul>
 <li></li>
+<img src="docs/readme.images/testing.images/jpeg-optimizer_Lighhouse1.PNG" alt="Screen shot of 'lighthouse accessibility diagnosis' of Sirjays Car Rental project">
 </ul>
 </li>
 
