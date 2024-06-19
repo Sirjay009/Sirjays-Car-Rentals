@@ -6,7 +6,7 @@
 
 <p>Visitors of Sirjays Cars Rentals are able to avail themselves of all necessary information regarding services offered, categories of cars to choose from, a visual tour of Sirjays' customer- friendly business environment, a reservation form, information about business hours, company's contact address and social media channels.</p>
 
-<img src="assets/images/readme.images/jpeg-optimizer_Capture.PNG" alt="A screen shot from amiresponsive website confirming the responsiveness of the project on all screens">
+<img src="docs/readme.images/jpeg-optimizer_Capture.PNG" alt="A screen shot from amiresponsive website confirming the responsiveness of the project on all screens">
 <br>
 
 <h3>Features</h3>
@@ -14,7 +14,7 @@
 <ul>
 <li>
 <p><strong>Navigation</strong></p>
-<img src="assets/images/readme.images/jpeg-optimizer_Navigation.PNG" alt="Screen shot of the 'Navigation section' of Sirjays Car Rental project">
+<img src="docs/readme.images/jpeg-optimizer_Navigation.PNG" alt="Screen shot of the 'Navigation section' of Sirjays Car Rental project">
 <ul>
 <li>The Navigation section of the project sits at the top of all file pages and houses the logo/company's name - Sirjays Car Rentals - on the left. This logo is clickable and brings users back to the home page.</li>
 <li>On the right of the logo are the other navigation links to the other pages of the website. These include the About us, Portfolio and Contact sections.</li>
@@ -25,7 +25,7 @@
 
 <li>
 <p><strong>The Header</strong></p>
-<img src="assets/images/readme.images/jpeg-optimizer_Header1.jpg" alt="Screen shot of the 'Header' of Sirjays Car Rental project">
+<img src="docs/readme.images/jpeg-optimizer_Header1.jpg" alt="Screen shot of the 'Header' of Sirjays Car Rental project">
 <ul>
 <li>The Header houses the hero image and a pink overlay with content that summarizes the essence and purpose of the webpage.</li>
 <li>Users are also able to access directly the contact/reserve form from the header via a reserve button inserted in the overlay</li>
@@ -36,7 +36,7 @@
 
 <li>
 <p><strong>Home page</strong></p>
-<img src="assets/images/readme.images/jpeg-optimizer_HomePage.PNG" alt="Screen shot of the 'Home page' of Sirjays Car Rental project">
+<img src="docs/readme.images/jpeg-optimizer_HomePage.PNG" alt="Screen shot of the 'Home page' of Sirjays Car Rental project">
 <ul>
 <li>The Home page section clearly details the essence and purpose of the company in the header and the services the company offer in the body.</li>
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
@@ -46,7 +46,7 @@
 
 <li>
 <p><strong>The About Us Section</strong></p>
-<img src="assets/images/readme.images/jpeg-optimizer_AboutUs.PNG" alt="Screen shot of the 'About Us section' of Sirjays Car Rental project">
+<img src="docs/readme.images/jpeg-optimizer_AboutUs.PNG" alt="Screen shot of the 'About Us section' of Sirjays Car Rental project">
 <ul>
 <li>The About section tells the history of the company.</li>
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
@@ -56,7 +56,7 @@
 
 <li>
 <p><strong>The Portfolio Section</strong></p>
-<img src="assets/images/readme.images/jpeg-optimizer_Portfolio.PNG" alt="Screen shot of the 'Portfolio section' of Sirjays Car Rental project">
+<img src="docs/readme.images/jpeg-optimizer_Portfolio.PNG" alt="Screen shot of the 'Portfolio section' of Sirjays Car Rental project">
 <ul>
 <li>The Portfolio section gives users a virtual tour of the company's customer-friendly business environment while displaying a couple of car varieties in its fleet.</li>
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
@@ -66,7 +66,7 @@
 
 <li>
 <p><strong>The Contact Us Section</strong></p>
-<img src="assets/images/readme.images/jpeg-optimizer_ContactUs.PNG" alt="Screen shot of the 'Contact Us section' of Sirjays Car Rental project">
+<img src="docs/readme.images/jpeg-optimizer_ContactUs.PNG" alt="Screen shot of the 'Contact Us section' of Sirjays Car Rental project">
 <ul>
 <li>The Contact us section avails users of a contact/reservation form to use to do their bookings and contact the company.</li>
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
