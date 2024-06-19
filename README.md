@@ -109,7 +109,7 @@
 
 <li><p>Accessibility</p>
 <ul>
-<li></li>
+<li>I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighhouse in devtools.</li>
 <img src="docs/readme.images/testing.images/jpeg-optimizer_Lighhouse1.PNG" alt="Screen shot of 'lighthouse accessibility diagnosis' of Sirjays Car Rental project">
 </ul>
 </li>
