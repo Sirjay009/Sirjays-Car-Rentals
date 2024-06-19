@@ -6,7 +6,7 @@
 
 <p>Visitors of Sirjays Cars Rentals are able to avail themselves of all necessary information regarding services offered, categories of cars to choose from, a visual tour of Sirjays' customer- friendly business environment, a reservation form, information about business hours, company's contact address and social media channels.</p>
 
-<img src="docs/readme.images/jpeg-optimizer_Capture.PNG" alt="A screen shot from amiresponsive website confirming the responsiveness of the project on all screens">
+<img src="docs/readme.images/testing.images/jpeg-optimizer_Capture.PNG" alt="A screen shot from amiresponsive website confirming the responsiveness of the project on all screens">
 <br>
 
 <h3>Features</h3>
