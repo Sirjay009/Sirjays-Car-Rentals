@@ -7,6 +7,7 @@
 <p>Visitors of Sirjays Cars Rentals are able to avail themselves of all necessary information regarding services offered, categories of cars to choose from, a visual tour of Sirjays' customer- friendly business environment, a reservation form, information about business hours, company's contact address and social media channels.</p>
 
 <img src="assets/images/jpeg-optimizer_Capture.PNG" alt="A screen shot from amiresponsive website confirming the responsiveness of the project on all screens">
+<br>
 
 <h3>Features</h3>
 
@@ -20,6 +21,7 @@
 <li>The navigation appears at the top of all file pages and aids users to smoothly interact with all pages by simply clicking on any section they desire to visit.</li>
 </ul>
 </li>
+<br>
 
 <li>
 <p><strong>The Header</strong></p>
@@ -30,6 +32,7 @@
 <li>To ensure user accessiblity, the header has been clearly set on a white background using black font colour.</li>
 </ul>
 </li>
+<br>
 
 <li>
 <p><strong>Home page</strong></p>
@@ -39,6 +42,7 @@
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
 </ul>
 </li>
+<br>
 
 <li>
 <p><strong>The About Us Section</strong></p>
@@ -48,6 +52,7 @@
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
 </ul>
 </li>
+<br>
 
 <li>
 <p><strong>The Portfolio Section</strong></p>
@@ -57,7 +62,7 @@
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
 </ul>
 </li>
-
+<br>
 
 <li>
 <p><strong>The Contact Us Section</strong></p>
@@ -68,37 +73,51 @@
 </ul>
 </li>
 </ul>
+<br>
 
 <h3>Testing</h3>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>I tested and confirmed that the page works on different browsers; Chrome, Firefox and Safari.</li>
+<li>I confirmed that the links in all the pages work.</li>
+<li>I have confirmed that the contact/reserve form requires entries in every field and uses the reserve button to send.</li>
+<li>I debuged the contact/reserve form so that empty values usually created with keyboard space key would be detected and invalidated.</li>
 </ul>
+<br>
 
 <h3>Bugs</h3>
 <p>Solved bugs</p>
 <ul>
 <li>Navbar items kept wrapping on tablet screens even after i reduced it's font size. I debuged it using the code - whitespace : nowrap; - on the media query of tablets</li>
 <li>Reserve forms could be submitted with no values using the space key. I debuged the issue using the code - pattern="[A-Za-z0-9]{1,20}"</li>
-<li></li>
-<li></li>
-<li></li>
 </ul>
+<br>
 
 <h3>Validator Testing</h3>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li><p>HTML</p>
+<ul>
 <li></li>
 </ul>
+</li>
+
+<li><p>CSS</p>
+<ul>
+<li></li>
+</ul>
+</li>
+
+<li><p>Accessibility</p>
+<ul>
+<li></li>
+</ul>
+</li>
+
+</ul>
+<br>
 
 <h3>Unfixed Bugs</h3>
 <p>No unfixed bugs</p>
+<br>
 
 <h3>Deployment</h3>
 <p>The site was deployed to GitHub pages using the following steps:</p>
@@ -111,7 +130,7 @@
 <li>Click on the URL displayed to see the live deployed site</li>
 </ul>
 <p>The live link can be found here - https://sirjay009.github.io/Sirjays-Car-Rentals/index.html</p>
-
+<br>
 <h3>Credits</h3>
 <p>Credit</p>
 <ul>
