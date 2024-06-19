@@ -96,13 +96,14 @@
 <ul>
 <li><p>HTML</p>
 <ul>
-<li></li>
+<li>The W3C validator-detected errors were corrected.</li>
+<li>No errors were returned when re-ran on W3C validator after correction was effected.</li>
 </ul>
 </li>
 
 <li><p>CSS</p>
 <ul>
-<li></li>
+<li>No errors were returned when css style sheet was run on the official (Jigsaw) validator.</li>
 </ul>
 </li>
 
