@@ -13,11 +13,9 @@
 <p><strong>Navigation</strong></p>
 <img src="assets/images/jpeg-optimizer_Navigation.PNG" alt="Screen shot of the 'Navigation section' of Sirjays Car Rental project">
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>The navigation section of the project sits at the top of all file pages and houses the logo/company's name - Sirjays Car Rentals - on the left. This logo is clickable and brings users back to the home page.</li>
+<li>On the right of the logo are the other navigation links to the other pages of the website. These include the About us, Portfolio and Contact sections.</li>
+<li>The navigation appears at the top of all file pages and aids users to smoothly interact with all pages by simply clicking on any section they desire to visit.</li>
 </ul>
 </li>
 
@@ -25,7 +23,7 @@
 <p><strong>The Header</strong></p>
 <img src="assets/images/jpeg-optimizer_Header1.jpg" alt="Screen shot of the 'Header' of Sirjays Car Rental project">
 <ul>
-<li></li>
+<li>The header houses the hero image and a pink overlay with content that summarizes the essence and purpose of the webpage.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -95,8 +93,8 @@
 <h3>Bugs</h3>
 <p>Solved bugs</p>
 <ul>
-<li></li>
-<li></li>
+<li>Navbar items kept wrapping on tablet screens even after i reduced it's font size. I debuged it using the code - whitespace : nowrap; - on the media query of tablets</li>
+<li>Reserve forms could be submitted with no values using the space key. I debuged the issue using the code - pattern="[A-Za-z0-9]{1,20}"</li>
 <li></li>
 <li></li>
 <li></li>
@@ -131,6 +129,8 @@
 <ul>
 <li>The favicon link code was taken from https://www.w3schools.com</li>
 <li>The navbar link code was taken from the CI love Running Project - https://sirjay009.github.io/love-running/</li>
+<li>The code to debug navbar items that kept wrapping on tablet screen was taken from https://css-tricks.com</li>
+<li>The code to debug contact/reserve form from accepting empty values was taken from https://stackoverflow.com</li>
 <li>The code to make the reserve button in hero's overlay was taken from Alan Bushell's Belfast Auto Repairs project - https://alan-bushell.github.io/belfast-auto-repairs/index.html</li>
 <li>The code to create space between text and font icons and debug footer was taken from https://wwwshecodes.io</li>
 <li>The code to make the social media links was taken from both the CI Love Running Project and Alan Bushell's Belfast Auto Repairs project</li>
