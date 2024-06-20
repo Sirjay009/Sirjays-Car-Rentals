@@ -177,6 +177,9 @@ main {
 }
 
 /*About us section*/
+.aboutus {
+    margin-top: 10px;
+}
 
 #aboutus-hero {
     height: 400px;
@@ -198,7 +201,7 @@ main {
 /*Portfolio section*/
 
 #portfolio {
-    margin-top: 55px;
+    margin-top: 5px;
 }
 
 #portfolio > h2 {
