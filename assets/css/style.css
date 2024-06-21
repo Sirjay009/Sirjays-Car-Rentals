@@ -318,6 +318,13 @@ table, th, td {
     
 }
 
+/*Media query: small or landscape phones (315px and below)*/
+@media screen and (max-width: 315px) {
+    /*Header*/
+    #logo {
+        font-size: 20px;
+    }
+}
 
 /*Media query: Large or landscape phones (576px and up)*/
 @media screen and (min-width: 576px) {
