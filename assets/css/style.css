@@ -219,8 +219,8 @@ main {
 /*Reserve section*/
 
 #reserve {
-    margin-top: 10px;
-    padding: 20px 10% 0 10%;
+    margin-left: 7.5vw;
+    width: 85%;
     flex-grow: 1;
 }
 
@@ -232,8 +232,8 @@ main {
 #reserve-form {
     background-color: darkmagenta;
     color: #ffffff;
-    padding: 30px;
     width: 85vw;
+    padding: 30px;
 }
 
 #reserve-form > h2 {
