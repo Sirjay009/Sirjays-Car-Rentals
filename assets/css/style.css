@@ -226,6 +226,7 @@ main {
 
 #reserve > h2 {
     text-align: center;
+    padding-top: 30px;
     padding-bottom: 30px;
 }
 
@@ -409,9 +410,10 @@ table, th, td {
     }
 
     #reserve-form {
-        max-width: 90%;
-        margin-left: 5%;
-        margin-right: 5%;
+        max-width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+
     }
 
     #social-networks i {
@@ -436,9 +438,9 @@ table, th, td {
     /*Reserve*/
 
     #reserve-form {
-        max-width: 50%;
-        margin-left: 25%;
-        margin-right: 25%;
+        max-width: 70%;
+        margin-left: 15%;
+        margin-right: 15%;
     }
 
 }
