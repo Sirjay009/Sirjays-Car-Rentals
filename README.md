@@ -225,25 +225,6 @@
 </table>
 <br>
 
-<h3>Google Lighthouse Testing</h3>
-<br>
-<h3>index.html</h3>
-
-<br>
-
-<h3>aboutus.html</h3>
-
-<br>
-
-<h3>portfolio.html</h3>
-
-<br>
-
-<h3>contactus.html</h3>
-
-<br>
-
-
 <h3>Bugs</h3>
 <p>Solved bugs</p>
 <ul>
@@ -271,7 +252,7 @@
 <li><p>Accessibility</p>
 <ul>
 <li>I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighhouse in devtools.</li>
-<img src="docs/readme.images/testing.images/jpeg-optimizer_Lighhouse1.PNG" alt="Screen shot of 'lighthouse accessibility diagnosis' of Sirjays Car Rental project">
+<img src="docs/readme.images/testing.images/jpeg-optimizer_Lighthouse.PNG" alt="Screen shot of 'lighthouse accessibility diagnosis' of Sirjays Car Rental project">
 </ul>
 </li>
 
