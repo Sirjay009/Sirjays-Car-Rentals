@@ -2,7 +2,6 @@
 
 <p>Sirjays Car Rentals website is a webpage dedicated to serving the everyday car rental needs of the general public.
 </p>
-<br>
 <h3>User</h3>
 <ul>
 <li>As a user, i want to be able to find a car rental company in my locality to rent a car.</li>
@@ -14,7 +13,6 @@
 <li>As a user, i want to be able to see the categories of cars in the company's fleet.</li>
 <li>As a user, i want to be able to find out the business hours of the company.</li>
 </ul>
-<br>
 <h3>Business Owner</h3>
 <ul>
 <li>As a business owner, i want to be able to showcase my business to the general public.</li>
@@ -23,8 +21,8 @@
 <li>As a business owner, i want to be able to share pictorial evidence of the company's business environment and friendly/assist-ready staff.</li>
 <li>As a business owner, i want to be able to provide a fast and easy means of contacting the company.</li>
 <li>As a business owner, i want to be able to avail users of information of the categories of cars in the company's fleet.</li>
-</ul>
 <li>As a buisness owner, i want to be able to present my business opening hours to users.</li>
+</ul>
 
 <img src="docs/readme.images/testing.images/jpeg-optimizer_Capture.PNG" alt="A screen shot from amiresponsive website confirming the responsiveness of the project on all screens">
 <br>
@@ -32,7 +30,6 @@
 <h3>Features</h3>
 <p>In achieving the user and business owner goals, i have created a four pages website consisting of: Home, About Us, Portforlio and Contact Us.</p>
 
-<li>
 <p><strong>Home page</strong></p>
 <img src="docs/readme.images/jpeg-optimizer_HomePage.PNG" alt="Screen shot of the 'Home page' of Sirjays Car Rental project">
 <ul>
