@@ -2,44 +2,62 @@
 
 <p>Sirjays Car Rentals website is a webpage dedicated to serving the everyday car rental needs of the general public.
 </p>
-<p>As a car rental company, Sirjays Car Rental, offers the best of car varieties at a very affordable rate and in a very proffessional and customer-friendly business environment run by a team of experienced, dedicated and assist-ready staff.</p>
-
-<p>Visitors of Sirjays Cars Rentals are able to avail themselves of all necessary information regarding services offered, categories of cars to choose from, a visual tour of Sirjays' customer- friendly business environment, a reservation form, information about business hours, company's contact address and social media channels.</p>
+<br>
+<h3>User</h3>
+<ul>
+<li>As a user, i want to be able to find a car rental company in my locality to rent a car.</li>
+<li>As a user, i want to be able to see what offers the car rental company have.</li>
+<li>As a user, i want to be able to learn more about the company's history.</li>
+<li>As a user, i want to be able to see virtual evidence of the company's business environment.</li>
+<li>As a user, i want to be able to reserve a car online.</li>
+<li>As a user, i want to be able to contact the car rental company online.</li>
+<li>As a user, i want to be able to see the categories of cars in the company's fleet.</li>
+<li>As a user, i want to be able to find out the business hours of the company.</li>
+</ul>
+<br>
+<h3>Business Owner</h3>
+<ul>
+<li>As a business owner, i want to be able to showcase my business to the general public.</li>
+<li>As a business owner, i want to be able to clearly present the various services my business is into.</li>
+<li>As a business owner, i want to be able to assure prospective customers of the stability of my business through the company's history.</li>
+<li>As a business owner, i want to be able to share pictorial evidence of the company's business environment and friendly/assist-ready staff.</li>
+<li>As a business owner, i want to be able to provide a fast and easy means of contacting the company.</li>
+<li>As a business owner, i want to be able to avail users of information of the categories of cars in the company's fleet.</li>
+</ul>
+<li>As a buisness owner, i want to be able to present my business opening hours to users.</li>
 
 <img src="docs/readme.images/testing.images/jpeg-optimizer_Capture.PNG" alt="A screen shot from amiresponsive website confirming the responsiveness of the project on all screens">
 <br>
 
 <h3>Features</h3>
+<p>In achieving the user and business owner goals, i have created a four pages website consisting of: Home, About Us, Portforlio and Contact Us.</p>
 
-<ul>
 <li>
-<p><strong>Navigation</strong></p>
+<p><strong>Home page</strong></p>
+<img src="docs/readme.images/jpeg-optimizer_HomePage.PNG" alt="Screen shot of the 'Home page' of Sirjays Car Rental project">
+<ul>
+<li>The Home page section clearly details the essence and purpose of the company in the header.</li>
+<li>A navigation section to access the pages of the website is nested in the header of the homepage.</li>
+<li>The services the company offer are detailed in the body of the home page.</li>
+<li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
+</ul>
+<br>
+
+<p>Navigation</p>
 <img src="docs/readme.images/jpeg-optimizer_Navigation.PNG" alt="Screen shot of the 'Navigation section' of Sirjays Car Rental project">
 <ul>
 <li>The Navigation section of the project sits at the top of all file pages and houses the logo/company's name - Sirjays Car Rentals - on the left. This logo is clickable and brings users back to the home page.</li>
 <li>On the right of the logo are the other navigation links to the other pages of the website. These include the About us, Portfolio and Contact sections.</li>
 <li>The navigation appears at the top of all file pages and aids users to smoothly interact with all pages by simply clicking on any section they desire to visit.</li>
 </ul>
-</li>
 <br>
 
-<li>
-<p><strong>The Header</strong></p>
+<p>The Header</p>
 <img src="docs/readme.images/jpeg-optimizer_Header1.jpg" alt="Screen shot of the 'Header' of Sirjays Car Rental project">
 <ul>
 <li>The Header houses the hero image and a pink overlay with content that summarizes the essence and purpose of the webpage.</li>
 <li>Users are also able to access directly the contact/reserve form from the header via a reserve button inserted in the overlay</li>
 <li>To ensure user accessiblity, the header has been clearly set on a white background using black font colour.</li>
-</ul>
-</li>
-<br>
-
-<li>
-<p><strong>Home page</strong></p>
-<img src="docs/readme.images/jpeg-optimizer_HomePage.PNG" alt="Screen shot of the 'Home page' of Sirjays Car Rental project">
-<ul>
-<li>The Home page section clearly details the essence and purpose of the company in the header and the services the company offer in the body.</li>
-<li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
 </ul>
 </li>
 <br>
