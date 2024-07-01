@@ -101,12 +101,12 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/jpeg-optimizer_pexels-mikebirdy-4056598.jpg") no-repeat center center / cover;
+    background: url("../images/jpeg-optimizer_jpeg-optimizer_pexels-mikebirdy-4056598.jpg") no-repeat center center / cover;
     position: relative;
 }
 
 #overlay {
-    background-color: rgb(241, 107, 107);
+    background-color: rgba(241, 109, 107, .7);
     font-size: 130%;
     position: absolute;
     bottom: 50px;
