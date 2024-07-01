@@ -31,7 +31,7 @@
 <h3>Features</h3>
 <p>In achieving the user and business owner goals, i have created a four pages website consisting of: Home, About Us, Portforlio and Contact Us.</p>
 
-<h3><strong>Home page</strong></h3>
+<h3>Home page</h3>
 <img src="docs/readme.images/jpeg-optimizer_HomePage.PNG" alt="Screen shot of the 'Home page' of Sirjays Car Rental project">
 <ul>
 <li>The Home page section clearly details the essence and purpose of the company in the header.</li>
@@ -60,7 +60,7 @@
 </li>
 <br>
 
-<p><strong>The About Us Section</strong></p>
+<h3>The About Us Section</h3>
 <img src="docs/readme.images/jpeg-optimizer_AboutUs.PNG" alt="Screen shot of the 'About Us section' of Sirjays Car Rental project">
 <ul>
 <li>A navigation section to access the other pages of the website and also to return to the home page is nested at the top of the About Us page.</li>
@@ -69,7 +69,7 @@
 </ul>
 <br>
 
-<p><strong>The Portfolio Section</strong></p>
+<h3>The Portfolio Section</h3>
 <img src="docs/readme.images/jpeg-optimizer_Portfolio.PNG" alt="Screen shot of the 'Portfolio section' of Sirjays Car Rental project">
 <ul>
 <li>A navigation section to access the other pages of the website and also to return to the home page is nested at the top of the Portfolio page.</li>
@@ -78,7 +78,7 @@
 </ul>
 <br>
 
-<p><strong>The Contact Us Section</strong></p>
+<h3>The Contact Us Section</h3>
 <img src="docs/readme.images/jpeg-optimizer_ContactUs.PNG" alt="Screen shot of the 'Contact Us section' of Sirjays Car Rental project">
 <ul>
 <li>A navigation section to access the other pages of the website and also to return to the home page is nested at the top of the Contact Us page.</li>
@@ -226,6 +226,23 @@
 <br>
 
 <h3>Google Lighthouse Testing</h3>
+<br>
+<h3>index.html</h3>
+
+<br>
+
+<h3>aboutus.html</h3>
+
+<br>
+
+<h3>portfolio.html</h3>
+
+<br>
+
+<h3>contactus.html</h3>
+
+<br>
+
 
 <h3>Bugs</h3>
 <p>Solved bugs</p>
