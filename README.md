@@ -289,6 +289,5 @@
 </ul>
 <br>
 <h3>Acknowledgments</h3>
-<br>
 <h4>Alan Bushell</h4>
 <p>My mentor under whose tutelage i was able to overcome my anxiety and conclude this project. I also appreciate his immense assistance in pointing me to most materials i utilized for this project.</p>
