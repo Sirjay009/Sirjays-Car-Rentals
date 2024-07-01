@@ -23,6 +23,7 @@
 <li>As a business owner, i want to be able to avail users of information of the categories of cars in the company's fleet.</li>
 <li>As a buisness owner, i want to be able to present my business opening hours to users.</li>
 </ul>
+<br>
 
 <img src="docs/readme.images/testing.images/jpeg-optimizer_Capture.PNG" alt="A screen shot from amiresponsive website confirming the responsiveness of the project on all screens">
 <br>
@@ -30,7 +31,7 @@
 <h3>Features</h3>
 <p>In achieving the user and business owner goals, i have created a four pages website consisting of: Home, About Us, Portforlio and Contact Us.</p>
 
-<p><strong>Home page</strong></p>
+<h3><strong>Home page</strong></h3>
 <img src="docs/readme.images/jpeg-optimizer_HomePage.PNG" alt="Screen shot of the 'Home page' of Sirjays Car Rental project">
 <ul>
 <li>The Home page section clearly details the essence and purpose of the company in the header.</li>
@@ -59,45 +60,172 @@
 </li>
 <br>
 
-<li>
 <p><strong>The About Us Section</strong></p>
 <img src="docs/readme.images/jpeg-optimizer_AboutUs.PNG" alt="Screen shot of the 'About Us section' of Sirjays Car Rental project">
 <ul>
+<li>A navigation section to access the other pages of the website and also to return to the home page is nested at the top of the About Us page.</li>
 <li>The About section tells the history of the company.</li>
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
 </ul>
-</li>
 <br>
 
-<li>
 <p><strong>The Portfolio Section</strong></p>
 <img src="docs/readme.images/jpeg-optimizer_Portfolio.PNG" alt="Screen shot of the 'Portfolio section' of Sirjays Car Rental project">
 <ul>
+<li>A navigation section to access the other pages of the website and also to return to the home page is nested at the top of the Portfolio page.</li>
 <li>The Portfolio section gives users a virtual tour of the company's customer-friendly business environment while displaying a couple of car varieties in its fleet.</li>
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
 </ul>
-</li>
 <br>
 
-<li>
 <p><strong>The Contact Us Section</strong></p>
 <img src="docs/readme.images/jpeg-optimizer_ContactUs.PNG" alt="Screen shot of the 'Contact Us section' of Sirjays Car Rental project">
 <ul>
+<li>A navigation section to access the other pages of the website and also to return to the home page is nested at the top of the Contact Us page.</li>
 <li>The Contact us section avails users of a contact/reservation form to use to do their bookings and contact the company.</li>
 <li>At the bottom of the page is the company's contact details, social media channels and business hours.</li>
 </ul>
-</li>
+</ul>
+<br>
+
+<h3>Technology Used</h3>
+<P><strong>Html</strong></P>
+<ul>
+<li>I used this technology to structure my webpages.</li>
+</ul>
+<br>
+
+<P><strong>CSS</strong></P>
+<ul>
+<li>I used this technology to style and add layouts to my project.</li>
+</ul>
+<br>
+
+<P><strong>Font Awesome</strong></P>
+<ul>
+<li>I used this technology for all the icons in this project.</li>
+</ul>
+<br>
+
+<P><strong>GoogleFonts</strong></P>
+<ul>
+<li>I used this techology for all the fonts used in this project.</li>
+</ul>
+<br>
+
+<P><strong>Hubspot</strong></P>
+<ul>
+<li>I used this technology to create my favicon logo.</li>
+</ul>
+<br>
+
+<P><strong>jpeg-optimizer.com</strong></P>
+<ul>
+<li>I used this technology to optimize the images i used in this project.</li>
 </ul>
 <br>
 
 <h3>Testing</h3>
-<ul>
-<li>I tested and confirmed that the page works on different browsers; Chrome, Firefox and Safari.</li>
-<li>I confirmed that the links in all the pages work.</li>
-<li>I have confirmed that the contact/reserve form requires entries in every field and uses the reserve button to send.</li>
-<li>I debuged the contact/reserve form so that empty values usually created with keyboard space key would be detected and invalidated.</li>
-</ul>
+<p>I manually tested this project to determine site usability, responsiveness and intuitivity to new users, by self and with the help of a few friends.</p>
 <br>
+
+<h4>Testing phase</h4>
+<br>
+<h5>Testing for links and form</h5>
+<table>
+<tr>
+    <th>Test</th>
+    <th>Outcome</th>
+  </tr>
+   <tr>
+    <td>All links on Navigation lead to their correct pages</td>
+    <td>Pass</td>
+  </tr>
+  <tr>
+    <td>Reserve button lead to contact form on contact us page</td>
+    <td>Pass</td>
+  </tr>
+  <tr>
+    <td>Footer social media links all lead to their respective social media sites</td>
+    <td>Pass</td>
+  </tr>
+  <tr>
+    <td>Contact form submits when all criteria is filled correctly</td>
+    <td>Pass</td>
+  </tr>
+  <tr>
+    <td>User prevented from submitting form without correct elements</td>
+    <td>Pass</td>
+  </tr>
+  <tr>
+    <td>Form validation presents when incorrect input type is entered</td>
+    <td>Pass</td>
+  </tr>
+</table>
+<br>
+
+<h5>Testing for responsiveness</h5>
+<table>
+<tr>
+    <th>Test</th>
+    <th>Outcome</th>
+  </tr>
+   <tr>
+    <td>Home page, about us, portfolio, contact us display correctly on screens larger than 950px</td>
+    <td>Pass</td>
+  </tr>
+  <tr>
+    <td>Home page, about us, portfolio, contact us display correctly on screens smaller than 950px</td>
+    <td>Pass</td>
+  </tr>
+</table>
+<br>
+
+<h4>User testing</h4>
+<br>
+<h5>User testing challenge</h5>
+<p>5 users were tasked prior to visiting the web page to conduct under-stated basic testing and report on success or otherwise.</p>
+<br>
+<table>
+<tr>
+    <th>Test</th>
+    <th>Result</th>
+  </tr>
+   <tr>
+    <td>Upon arrival to website please navigate to where you would expect to find a contact form</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>Please navigate to the social media links of this business</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>Please fill in contact form with your information and car category preference throught the reserve button</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>Please navigate to the Portfolio page and count how many images there are</td>
+    <td>100%</td>
+  </tr>
+</table>
+<br>
+
+<h5>User responsive testing</h5>
+<p>5 users were asked to view the website on their mobile devices and/or tablets to provide any feedback on errors or page overlapping issues.</p>
+<br>
+<table>
+<tr>
+    <th>Test</th>
+    <th>Result</th>
+  </tr>
+   <tr>
+    <td>Issues reported</td>
+    <td>None</td>
+  </tr>
+</table>
+<br>
+
+<h3>Google Lighthouse Testing</h3>
 
 <h3>Bugs</h3>
 <p>Solved bugs</p>
