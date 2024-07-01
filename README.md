@@ -31,7 +31,7 @@
 <h3>Features</h3>
 <p>In achieving the user and business owner goals, i have created a four pages website consisting of: Home, About Us, Portforlio and Contact Us.</p>
 
-<h3>Home page</h3>
+<h3>The Home Page Section</h3>
 <img src="docs/readme.images/jpeg-optimizer_HomePage.PNG" alt="Screen shot of the 'Home page' of Sirjays Car Rental project">
 <ul>
 <li>The Home page section clearly details the essence and purpose of the company in the header.</li>
